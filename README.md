@@ -1,4 +1,4 @@
-# Email-Spam-Detection-in-Python-with-Machine-Learning
+# Email-Spam-Detection-in-Python-with-Machine-Learning Output Console 
 Simple Spam Email Classification with Machine Learning
 
 **C:\Users\Sanket\Desktop\pyscripts>python simple-spam-detector-in-python.py**
