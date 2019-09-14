@@ -1,8 +1,8 @@
 # Email-Spam-Detection-in-Python-with-Machine-Learning Output Console 
 Simple Spam Email Classification with Machine Learning
-
-**'C:\Users\Sanket\Desktop\pyscripts>python simple-spam-detector-in-python.py'**
-
+'''
+**C:\Users\Sanket\Desktop\pyscripts>python simple-spam-detector-in-python.py**
+'''
 simple-spam-detector-in-python.py:9: FutureWarning: Method .as_matrix will be re
 moved in a future version. Use .values instead. dataset=pd.read_csv("spambase.data").as_matrix()
 
