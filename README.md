@@ -1,5 +1,4 @@
-# Email-Spam-Detection-in-Python-with-Machine-Learning Output Console 
-
+# Email-Spam-Detection-in-Python-with-Machine-Learning
 
 **C:\Users\Sanket\Desktop\pyscripts>pip install pandas**
 
