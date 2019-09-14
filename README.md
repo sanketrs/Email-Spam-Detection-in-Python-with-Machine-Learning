@@ -1,6 +1,14 @@
 # Email-Spam-Detection-in-Python-with-Machine-Learning Output Console 
 
 
+**C:\Users\Sanket\Desktop\pyscripts>pip install pandas**
+
+**C:\Users\Sanket\Desktop\pyscripts>pip install numpy**
+
+
+**C:\Users\Sanket\Desktop\pyscripts>pip install sklearn**
+
+
 **C:\Users\Sanket\Desktop\pyscripts>python simple-spam-detector-in-python.py**
 
 
